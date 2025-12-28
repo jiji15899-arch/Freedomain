@@ -1,9 +1,9 @@
 # Cloudflare Pages 배포 설정
 # 제작: 아백 (아로스)
-# 생성일: 2025-12-27
+# 생성일: 2025-12-29
 
-name = "freedomainichoi"
-compatibility_date = "2025-12-27"
+name = "freedomains"
+compatibility_date = "2025-12-29"
 
 [assets]
 directory = "."
